@@ -1,0 +1,22 @@
+{
+    "name" : "Super 30",
+    "year" : 2019,
+    "runtime" : 135,
+    "categories": [
+        "drama",
+        "music",
+        "romance"
+      ],
+      "release-date": "2019-07-21",
+  "director": "Vikas Bahl",
+  "writer": [
+    "Sanjeev Datta"
+    
+  ],
+  "actors": [
+    "Hrithik Roshan",
+    "Mrunal Thakur"
+    
+  ],
+  "storyline": "The life of a Teacher who teaches 30 meritorious students for the entrance exam of premium Indian Institute named Indian Institute of Technology"
+}
